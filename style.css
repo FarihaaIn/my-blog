@@ -1,0 +1,47 @@
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+h2{ background-color: skyblue ;
+    margin-top: 10px 500px black;
+    color: rgb(27, 47, 83);
+    text-align: center;
+    font-family: cursive;
+    background-size: 10px;
+}
+h3{
+    font-family: cursive;
+    font-size-adjust: inherit;
+    color:teal;
+    background-color: yellow;
+    background-size: 10px 20px;
+}
+body{
+    background-image: url('sea.jpg');
+    background-size: 10x 10px;
+    background-repeat: left;
+}
+#macca{
+    text-align: left;
+    font-size: larger;
+    border:3px black dotted;
+    padding: 10px 20px 5px;
+}
+#sea{
+    text-align: left;
+    border: 3px black dotted;
+    font-size: larger;
+    padding: 10px 20px 5px;
+    }
+#hill{
+    text-align: left;
+    font-size: larger;
+    border:3px black dotted;
+    padding: 10px 20px 5px;
+    
+}
+#space{
+    text-align: left;
+    font-size: larger;
+    border: 3px black dotted;
+    padding: 10px 20px 5px;
+}
